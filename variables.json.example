@@ -1,0 +1,11 @@
+{
+	"vcenter-host": "ukrdvmgvc001.dbpoc.uk",
+	"vcenter-cluster": "Reading-Dev-PoC",
+	"vcenter-datacenter": "Reading-Dev",
+	"vcenter-datastore": "ukrd_esx_mgmt_data_002",
+	"vcenter-username": "username@dbpoc.uk",
+	"vcenter-password": "password",
+	"vcenter-disk_mode": "thin",
+	"vcenter-vm_folder": "/",
+	"vcenter-vm_network": "DMZ_Internet_Vlan201"
+}

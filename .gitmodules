@@ -1,0 +1,3 @@
+[submodule "lib/packer-templates"]
+	path = lib/packer-templates
+	url = https://github.com/dayglo/packer-templates.git
