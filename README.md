@@ -12,13 +12,5 @@ To use this project, you will need to install:-
 1. [govc](https://github.com/vmware/govmomi/releases);
 1. [jq](https://stedolan.github.io/jq/download/) 
 
-You also need access to the internet (currently).
-
-1. Clone the repo,
-1. Copy variables.json.example to variables.json
-1. Add your vcenter details to variables.json
-1. run build-ubuntu.sh (tested on mingw);
-1. run build-kubernetes.sh
-
-TODO: deploy customisation templates automatically.
+You also need access to the internet (until we set up our binaries in artifactory).
 
